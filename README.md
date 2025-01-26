@@ -70,3 +70,17 @@ results.json: сохраняет результаты тестирования �
 # Скриншоты работы приложения.
 ## index.php он же начальная страница 
 ![image](https://github.com/user-attachments/assets/78c0ca82-a95d-4688-92a5-f01f172214ff)
+## test.php (сам тест)
+![image](https://github.com/user-attachments/assets/847b5461-9531-4b82-a09f-4731b32a3b07)
+![image](https://github.com/user-attachments/assets/630c6b5e-704d-4828-a06b-2fce61b99778)
+## result.php (результат теста)
+![image](https://github.com/user-attachments/assets/6bfefe11-3bb1-4c61-9d5b-7320e629b553)
+## login.php (вход в административную панель)
+![image](https://github.com/user-attachments/assets/264b2771-78c4-4103-b604-a31aac6fbe2a)
+## dashbord.php (результаты всех прохождений теста)
+![image](https://github.com/user-attachments/assets/ae7bd881-7251-4d09-911b-1982995b5933)
+![image](https://github.com/user-attachments/assets/c65e9bcd-869c-4624-b892-71f58237039b)
+
+
+
+
