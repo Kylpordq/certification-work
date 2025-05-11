@@ -19,13 +19,13 @@ questdata/ - данные с вопросами и результатами.
 Запустите встроенный сервер PHP (если не используете Apache/Nginx/):
 </p>
 <p>
-php -S localhost:8000
+`php -S localhost:8000`
 </p>
 <p>
 Перейдите в браузере по адресу 
 </p>
 <p>
-http://localhost:8000/index.php.
+`http://localhost:8000/index.php.`
 </p>
 
 # Краткое описание функционала приложения
